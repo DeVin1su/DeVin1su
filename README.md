@@ -37,7 +37,7 @@ Other
 - Shopify, ElasticSearch, Socket IO;
 
 # 🌱 I’m currently learning
-- Kubenetes, Helm, GCP, CI/CD;
+- Kubernetes, Helm, GCP, CI/CD;
 
 # 📑 Other Skills
 - English (B2) - Upper-Intermediate;
