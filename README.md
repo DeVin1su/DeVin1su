@@ -25,31 +25,31 @@ Blockchain
 - Solidity, Truffle, Ganache, TheGraph;
 
 Also several years of development in C#
-- С#, ASP.NET MVC, ASP.NET Core, WebApi, Razor
-- Entity Framework, FastReport, DevExpress, SignalR, Razor
+- С#, ASP.NET MVC, ASP.NET Core, WebApi, Razor;
+- Entity Framework, FastReport, DevExpress, SignalR, Razor;
 
 Have a previous experience in developing applications using:
-- Angular2, Angular8
-- Php, Laravel
+- Angular2, Angular8;
+- Php, Laravel;
 
 Other:
-- TFS, GIT, JIRA, BitBucket, Github
-- Html, CSS, SCSS, Bootstrap, JQuery, Ajax
-- Shopify, ElasticSearch, Socket IO
+- TFS, GIT, JIRA, BitBucket, Github;
+- Html, CSS, SCSS, Bootstrap, JQuery, Ajax;
+- Shopify, ElasticSearch, Socket IO;
+- 
 # 🌱 I’m currently learning
-- Kubenetes, Helm, GCP, CI/CD
+- Kubenetes, Helm, GCP, CI/CD;
 
 # 📑 Other Skills
-
 - English (B2) - Upper-Intermediate;
 - Ukrainian - Native;
-- Russian - Native.
+- Russian - Native;
 
 # 📱 Contacts
 
 - LinkedIn - linkedin.com/in/denys-ivashko/
 - Facebook - facebook.com/devin1su
-- 
+
 <!--
 **DeVin1su/DeVin1su** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
