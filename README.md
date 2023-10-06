@@ -27,15 +27,15 @@ Also several years of development in C#
 - С#, ASP.NET MVC, ASP.NET Core, WebApi, Razor;
 - Entity Framework, FastReport, DevExpress, SignalR, Razor;
 
-Have a previous experience in developing applications using:
+Have a previous experience in developing applications using
 - Angular2, Angular8;
 - Php, Laravel;
 
-Other:
+Other
 - TFS, GIT, JIRA, BitBucket, Github;
 - Html, CSS, SCSS, Bootstrap, JQuery, Ajax;
 - Shopify, ElasticSearch, Socket IO;
-- 
+
 # 🌱 I’m currently learning
 - Kubenetes, Helm, GCP, CI/CD;
 
