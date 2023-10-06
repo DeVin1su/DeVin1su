@@ -1,4 +1,3 @@
-### Hi there 👋
 # Hello! I am Denys!😁🤙
 Software Engineer, Full Stack, Node.js, React, Blockchain, .NET
 
