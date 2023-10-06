@@ -15,7 +15,7 @@ I'm passionate about staying at the forefront of web development trends and leve
 - Next.js, React.js, Redux;
 - Javascript, TypeScript;
 - MS Sql, MySql, Postgres, GraphQL, Redis;
-- Jest for unit-testing of Front-end parts;
+- Jest, Mocha, Enzyme, React Testing Library;
 - Linux, Windows;
 - Docker;
 
